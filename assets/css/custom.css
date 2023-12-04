@@ -1,0 +1,11 @@
+a {
+    transition: all 0.3s ease-in-out;
+  }
+  
+  footer {
+    border-top: 0 !important;
+  }
+  
+  a:hover {
+    text-decoration: none !important;
+  }

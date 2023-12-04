@@ -127,7 +127,7 @@ navbar-var-length: false
 
 navbar-col: "#0d1117"
 navbar-text-col: "#718096"
-navbar-border-col: "#0d1117"
+navbar-border-col: "#1a202c"
 page-col: "#1a202c"
 text-col: "#ffffff"
 link-col: "#ffb342"
@@ -145,11 +145,11 @@ footer-hover-col: "#ffd160"
 #page-img: "/assets/img/bgimage.png"
 
 # Suggest a colour for mobile browsers to use as the browser's theme. This is only supported by a few mobile browsers.
-#mobile-theme-col: "#0085A1"
+mobile-theme-col: "#5A3EFD"
 
 # For any extra visual customization, you can include additional CSS files in every page on your site. List any custom CSS files here
 #site-css:
-#  - "/assets/css/custom-styles.css"
+  - "/assets/css/custom.css"
 
 # If you have common JavaScript files that should be included in every page, list them here
 #site-js:
