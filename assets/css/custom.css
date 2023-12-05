@@ -9,3 +9,8 @@ a {
   a:hover {
     text-decoration: none !important;
   }
+
+  .newsletter {
+    color:#83b3e4;
+    border-radius: 25px;
+  }
