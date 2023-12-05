@@ -136,6 +136,7 @@ footer-col: "#0d1117"
 footer-text-col: "#718096"
 footer-link-col: "#765bff"
 footer-hover-col: "#ffd160"
+font-family: "'Verdana', sans-serif"
 
 # Alternatively, the navbar, footer, and page background can be set to an image
 # instead of colour
