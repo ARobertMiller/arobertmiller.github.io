@@ -22,7 +22,7 @@ author: A. Robert Miller
 navbar-links:
   About: "about"
   Blog: "blog"
-  Newsletter: "#footer"
+  Newsletter: "../#footer"
 
 ################
 # --- Logo --- #
