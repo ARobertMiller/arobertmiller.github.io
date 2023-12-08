@@ -14,3 +14,7 @@ a {
     color:#83b3e4;
     border-radius: 25px;
   }
+
+table tr {
+  background-color: #1a202c;
+}
