@@ -19,7 +19,8 @@ The first step in that plan is to write in public. I've created an account on Ro
 ![Wizard NOT For Hire Cover Image](/assets/img/wizard_not_for_hire_cover.jpg){: .mx-auto.d-block :}
 
 
-### [Read *Wizard NOT For Hire* on Royal Road](https://www.royalroad.com/fiction/78106/wizard-not-for-hire-cozy-fantasy){: .mx-auto.d-block :}
+### [Read *Wizard NOT For Hire* on Royal Road](https://www.royalroad.com/fiction/78106/wizard-not-for-hire-cozy-fantasy)
+{: style="text-align: center;"}
 
 
 ## I have no audience or connections
