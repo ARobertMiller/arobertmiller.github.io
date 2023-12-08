@@ -18,3 +18,7 @@ a {
 table tr {
   background-color: #1a202c;
 }
+
+table tr:nth-child(2n) {
+  background-color: #262f40;
+}
