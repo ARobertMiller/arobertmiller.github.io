@@ -57,6 +57,10 @@ table tr:nth-child(2n) {
   }
 }
 
-.royalroad {
+.royal-road {
+  padding: 10px 20px;
+  border-radius: 20px;
+  font-size: 15px;
+  color:fff;
   background-color: #337ab7;
 }
