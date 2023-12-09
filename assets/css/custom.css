@@ -1,19 +1,19 @@
 a {
-    transition: all 0.3s ease-in-out;
-  }
-  
-  footer {
-    border-top: 0 !important;
-  }
-  
-  a:hover {
-    text-decoration: none !important;
-  }
+  transition: all 0.3s ease-in-out;
+}
 
-  .newsletter {
-    color:#83b3e4;
-    border-radius: 25px;
-  }
+footer {
+  border-top: 0 !important;
+}
+
+a:hover {
+  text-decoration: none !important;
+}
+
+.newsletter {
+  color: #83b3e4;
+  border-radius: 25px;
+}
 
 table tr {
   background-color: #1a202c;
@@ -47,10 +47,7 @@ table tr:nth-child(2n) {
   color: white;
 }
 
-h2 .text-center {
-  text-align: center;
-}
-img .float-left {
+img .hero-book {
   float: left;
   margin: 1.875rem;
 }
