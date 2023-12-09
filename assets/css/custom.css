@@ -57,13 +57,17 @@ table tr:nth-child(2n) {
   }
 }
 
-.royal-road {
+.royal-road,
+.royal-road:active,
+.royal-road:visited,
+.royal-road:hover {
   padding: 10px 20px;
-  border-radius: 20px;
+  border-radius: 10px;
   font-size: 15px;
   background-color: #337ab7;
+  color: white;
+}
 
-  a {
-    color: ffffff;
-  }
+.royal-road:hover {
+  color: white;
 }
