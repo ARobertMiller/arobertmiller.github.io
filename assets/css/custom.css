@@ -62,7 +62,7 @@ table tr:nth-child(2n) {
 .royal-road:visited,
 .royal-road:hover {
   padding: 10px 20px;
-  border-radius: 10px;
+  border-radius: 5px;
   font-size: 15px;
   background-color: #337ab7;
   color: white;
