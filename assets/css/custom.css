@@ -22,3 +22,27 @@ table tr {
 table tr:nth-child(2n) {
   background-color: #262f40;
 }
+
+.hero {
+  padding: 1rem;
+  text-align: center;
+}
+
+.patreon {
+  padding: 10px 20px;
+  border-radius: 20px;
+  font-size: 15px;
+}
+
+.patreon,
+.patreon:active,
+.patreon:visited,
+.patreon:hover {
+  background-color: rgb(255, 66, 77);
+  color: white;
+}
+
+.patreon:hover {
+  background-color: #e1000d;
+  color: white;
+}
