@@ -46,3 +46,11 @@ table tr:nth-child(2n) {
   background-color: #e1000d;
   color: white;
 }
+
+h2 .text-center {
+  text-align: center;
+}
+img .float-left {
+  float: left;
+  margin: 5px;
+}
