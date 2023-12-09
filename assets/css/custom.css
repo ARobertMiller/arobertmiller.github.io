@@ -47,7 +47,8 @@ table tr:nth-child(2n) {
   color: white;
 }
 
-img .hero-book {
-  float: left;
-  margin: 1.875rem;
+.hero-book {
+  img {
+    margin: 1.875rem;
+  }
 }
