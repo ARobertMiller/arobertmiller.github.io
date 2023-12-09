@@ -55,9 +55,8 @@ table tr:nth-child(2n) {
   p {
     text-align: justify;
   }
+}
 
-  hr {
-    color: #fff;
-    width: 50%;
-  }
+.royalroad {
+  background-color: #337ab7;
 }
