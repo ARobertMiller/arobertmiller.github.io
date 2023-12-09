@@ -49,6 +49,15 @@ table tr:nth-child(2n) {
 
 .hero-book {
   img {
-    margin: 1.875rem;
+    margin: 0.3rem 1rem 1rem 0;
+  }
+
+  p {
+    text-align: justify;
+  }
+
+  hr {
+    color: #262f40;
+    width: 50%;
   }
 }
