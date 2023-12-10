@@ -48,7 +48,7 @@ round-avatar: true
 # You can change the order that they show up on the page by changing the order here.
 # Uncomment the links you want to show and add your information to each one.
 social-network-links:
-  email: "arobertmiller.author@gmail.com"
+  #email: "arobertmiller.author@gmail.com"
   bluesky: arobertmiller.bsky.social
   patreon: arobertmiller
   rss: true  # remove this line if you don't want to show an RSS link at the bottom
@@ -118,7 +118,7 @@ edit_page_button: false
 navbar-var-length: false
 
 # The keywords to associate with your website, for SEO purposes
-#keywords: "my,list,of,keywords"
+keywords: "a robert miller,fantasy,cozy fantasy,author"
 
 ######################################
 # --- Colours / background image --- #
